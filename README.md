@@ -20,7 +20,7 @@
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: JWT
-- **Email Service**: NodeMailer
+- **Email Service**: Mailtrap
 
 ## 📑 Implementation Guide
 
